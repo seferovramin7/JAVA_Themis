@@ -33,7 +33,7 @@ public class Main {
             }
         };
 
-        //    List<Student> students = Arrays.asList(new Student(2, "Alice"), new Student(1, "Bob"));
+        //    List<Sefgafaswdftudent> students = Arrays.asList(new Student(2, "Alice"), new Student(1, "Bob"));
         Collections.sort(arrayList, surnameComparator);
 
 
